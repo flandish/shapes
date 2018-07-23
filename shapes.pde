@@ -13,7 +13,6 @@ void circle() {
   //RCommand.setSegmentLength(100);
   //RCommand.setSegmentator(RCommand.UNIFORMLENGTH);
   
-  
   //RPolygon circlePolly = circle.toPolygon();
   //for(int i = 0; i < circlePolly.contours[0].points.length; i++){
   //RPoint curPoint = circlePolly.contours[0].points[i];
