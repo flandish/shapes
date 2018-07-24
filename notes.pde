@@ -1,6 +1,12 @@
+// Reference
+// http://printingcode.runemadsen.com/geomerative/
+
 // Order of importance
 
 // Create desired shapes/determine parameters
+//    Noise vs jagged shapes of polygonize
+//    Would a noise circle be made with trig + noise throughout?
+//    Beziers?
 // Make into objects
 //    Attributes: Colour, rougness factor, orientation, size, position
 //    Extend from a main class? https://processing.org/reference/extends.html
